@@ -1,6 +1,6 @@
 import pandas as pd
 
-def first_look_data(df)
+def first_look_data(df):
     print('Number of rows : ' , len(df) )
     print('Number of columns : ' , len(df.columns) )
     print('\n  ')
